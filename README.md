@@ -1,7 +1,7 @@
 How to use
 
 ```bash
-git clone https://github.com/sumitpore/docker-lamp.git
-cd docker-lamp/
+git clone https://github.com/sumitpore/lamp-docker.git
+cd lamp-docker/
 docker-compose up -d
 ```
